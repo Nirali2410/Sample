@@ -2,6 +2,8 @@
 
 echo 'hello Nirali';
 
+echo 'hi';
+
 
 ?>
 
